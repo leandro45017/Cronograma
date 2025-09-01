@@ -1,6 +1,6 @@
 const CACHE_NAME = "cronograma-v1";
 const FILES_TO_CACHE = [
-  "./Index.html",
+  "./README.md",
   "./manifest.json"
 ];
 
@@ -34,4 +34,5 @@ self.addEventListener("fetch", event => {
     })
   );
 });
+
 
