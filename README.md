@@ -1,5 +1,4 @@
-# Cronograma
-Cronograma Quintas do Lago - Praia dos Coqueiros
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
