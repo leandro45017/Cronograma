@@ -1,6 +1,6 @@
 const CACHE_NAME = "cronograma-v1";
 const FILES_TO_CACHE = [
-  "./Cronograma ASG Quintas do Lago.html",
+  "./Index.html",
   "./manifest.json"
 ];
 
@@ -34,3 +34,4 @@ self.addEventListener("fetch", event => {
     })
   );
 });
+
